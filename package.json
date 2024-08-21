@@ -1,0 +1,12 @@
+{
+  "name": "task-tailwind_cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": " npx tailwindcss -i ./input.css -o ./public/assets/css/style.css  --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
